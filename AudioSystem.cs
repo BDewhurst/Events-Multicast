@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace EventsAndMulticastDelegates {
     public class AudioSystem {
-        public void StartGame() {
+
+        public AudioSystem() {
+            GameEventManager.OnGameStart += StartGame;
+            GameEventManager.OnGameOver += GameOver;
+            }
+        private void StartGame() {
             Console.WriteLine("Audio System Started");
             Console.WriteLine("Playing Audio");
         }
-        public void GameOver() {
+        private void GameOver() {
             Console.WriteLine("Audio System Stopped");
         }
     }
