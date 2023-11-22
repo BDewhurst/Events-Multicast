@@ -1,0 +1,15 @@
+/home/brad1996/Csharp-course/multicast/bin/Debug/net7.0/multicast
+/home/brad1996/Csharp-course/multicast/bin/Debug/net7.0/multicast.deps.json
+/home/brad1996/Csharp-course/multicast/bin/Debug/net7.0/multicast.runtimeconfig.json
+/home/brad1996/Csharp-course/multicast/bin/Debug/net7.0/multicast.dll
+/home/brad1996/Csharp-course/multicast/bin/Debug/net7.0/multicast.pdb
+/home/brad1996/Csharp-course/multicast/obj/Debug/net7.0/multicast.csproj.AssemblyReference.cache
+/home/brad1996/Csharp-course/multicast/obj/Debug/net7.0/multicast.GeneratedMSBuildEditorConfig.editorconfig
+/home/brad1996/Csharp-course/multicast/obj/Debug/net7.0/multicast.AssemblyInfoInputs.cache
+/home/brad1996/Csharp-course/multicast/obj/Debug/net7.0/multicast.AssemblyInfo.cs
+/home/brad1996/Csharp-course/multicast/obj/Debug/net7.0/multicast.csproj.CoreCompileInputs.cache
+/home/brad1996/Csharp-course/multicast/obj/Debug/net7.0/multicast.dll
+/home/brad1996/Csharp-course/multicast/obj/Debug/net7.0/refint/multicast.dll
+/home/brad1996/Csharp-course/multicast/obj/Debug/net7.0/multicast.pdb
+/home/brad1996/Csharp-course/multicast/obj/Debug/net7.0/multicast.genruntimeconfig.cache
+/home/brad1996/Csharp-course/multicast/obj/Debug/net7.0/ref/multicast.dll
